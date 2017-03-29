@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="orange_question" size="1.000000 1.564792" />
+    <ImageTarget name="purple_question" size="1.000000 1.566707" />
+    <ImageTarget name="red_question" size="1.000000 1.651613" />
+    <ImageTarget name="blue_question" size="1.000000 1.673203" />
+    <ImageTarget name="Take4" size="1.000000 1.549857" />
+    <ImageTarget name="ColorChange" size="1.000000 1.530899" />
+    <ImageTarget name="Orange_Take2" size="1.000000 1.522911" />
+    <ImageTarget name="Orange_Reverse" size="1.000000 1.537190" />
+    <ImageTarget name="Orange_Pass" size="1.000000 1.550802" />
+    <ImageTarget name="Orange_Four" size="1.000000 1.529716" />
+    <ImageTarget name="Orange_Three" size="1.000000 1.503836" />
+    <ImageTarget name="Orange_Two" size="1.000000 1.497355" />
+    <ImageTarget name="Orange_One" size="1.000000 1.516908" />
+    <ImageTarget name="Red_Pass" size="1.000000 1.531101" />
+    <ImageTarget name="Red_Take2" size="1.000000 1.563275" />
+    <ImageTarget name="Red_Reverse" size="1.000000 1.541860" />
+    <ImageTarget name="Red_Four" size="1.000000 1.546539" />
+    <ImageTarget name="Red_Three" size="1.000000 1.575243" />
+    <ImageTarget name="Red_Two" size="1.000000 1.582500" />
+    <ImageTarget name="Red_One" size="1.000000 1.539024" />
+    <ImageTarget name="Purple_Pass" size="1.000000 1.577670" />
+    <ImageTarget name="Purple_Take2" size="1.000000 1.519512" />
+    <ImageTarget name="Purple_Reverse" size="1.000000 1.525701" />
+    <ImageTarget name="Purple_Four" size="1.000000 1.594937" />
+    <ImageTarget name="Purple_Three" size="1.000000 1.564304" />
+    <ImageTarget name="Purple_Two" size="1.000000 1.561404" />
+    <ImageTarget name="Purple_One" size="1.000000 1.435185" />
+    <ImageTarget name="Blue_Take2" size="1.000000 1.561798" />
+    <ImageTarget name="Blue_Pass" size="1.000000 1.581461" />
+    <ImageTarget name="Blue_Reverse" size="1.000000 1.599447" />
+    <ImageTarget name="Blue_Four" size="1.000000 1.489247" />
+    <ImageTarget name="Blue_Three" size="1.000000 1.482249" />
+    <ImageTarget name="Blue_Two" size="1.000000 1.628242" />
+    <ImageTarget name="Blue_One" size="1.000000 1.619048" />
+  </Tracking>
+</QCARConfig>
